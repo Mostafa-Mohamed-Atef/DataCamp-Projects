@@ -1,0 +1,1300 @@
+completed_at,exercise_title
+2024-07-20T00:00:00.000Z,Correct use of __init__
+2024-08-13T00:00:00.000Z,Congratulations!
+2024-08-28T00:00:00.000Z,Tracking version number with bumpversion
+2024-08-28T00:00:00.000Z,Running your tests
+2024-09-01T00:00:00.000Z,Setting dtypes and saving memory (2)
+2024-08-14T00:00:00.000Z,Off the Beaten XPath
+2024-07-21T00:00:00.000Z,Square and rectangle (3)
+2024-10-03T00:00:00.000Z,Trying out prompt engineering
+2024-08-14T00:00:00.000Z,Choose DataCamp!
+2024-07-21T00:00:00.000Z,String representation of objects (2)
+2024-09-25T00:00:00.000Z,Market research report summarization
+2024-09-15T00:00:00.000Z,Filtering your INNER JOIN
+2024-07-20T00:00:00.000Z,Alternative constructors
+2024-09-25T00:00:00.000Z,Congratulations
+2024-07-21T00:00:00.000Z,Using internal attributes
+2024-10-14T00:00:00.000Z,Congratulations!
+2024-07-21T00:00:00.000Z,Attribute naming conventions
+2024-07-21T00:00:00.000Z,Create and set properties (1)
+2024-08-21T00:00:00.000Z,"""Step"" histogram"
+2024-06-15T00:00:00.000Z,Bringing it all together: Festivus! (3)
+2024-08-28T00:00:00.000Z,Writing function documentation with pyment II
+2024-09-05T00:00:00.000Z,Why we like flat files and the Zen of Python
+2024-09-10T00:00:00.000Z,Summarizing several inputs
+2024-09-03T00:00:00.000Z,Creating a podcast transcript
+2024-10-13T00:00:00.000Z,Product recommendation system
+2024-09-01T00:00:00.000Z,Creating a Boolean encoding (1)
+2024-10-18T00:00:00.000Z,Adding functionality to a child class
+2024-08-14T00:00:00.000Z,Hyper(link) Active
+2024-10-18T00:00:00.000Z,Row selection: loc[] vs iloc[] (1)
+2024-06-13T00:00:00.000Z,Practice with NumPy arrays
+2024-10-12T00:00:00.000Z,The basic anatomy of an API request
+2024-11-01T00:00:00.000Z,Plotting many variables at once
+2024-09-01T00:00:00.000Z,Using saved mappings
+2024-06-10T00:00:00.000Z,Bringing it all together
+2024-09-10T00:00:00.000Z,Automatic speech recognition
+2024-09-19T00:00:00.000Z,Traditional models vs. LLMs
+2024-09-26T00:00:00.000Z,Text preprocessing and representation
+2024-07-20T00:00:00.000Z,Class-level attributes (2)
+2024-07-14T00:00:00.000Z,Crafting a docstring (1)
+2024-10-03T00:00:00.000Z,Compare RAG with fine-tuning
+2024-10-03T00:00:00.000Z,Alert handling
+2024-07-14T00:00:00.000Z,Crafting a docstring
+2024-09-01T00:00:00.000Z,Setting dtype when reading data (3)
+2024-09-05T00:00:00.000Z,Using pandas to import flat files as DataFrames (1)
+2024-09-26T00:00:00.000Z,"Training, tuning & feedback"
+2024-10-13T00:00:00.000Z,Sorting by similarity
+2024-10-04T00:00:00.000Z,Defining a function with external APIs
+2024-08-17T00:00:00.000Z,Your First Spider
+2024-09-25T00:00:00.000Z,Code generation and explanation
+2024-07-20T00:00:00.000Z,Create a subclass (1)
+2024-11-01T00:00:00.000Z,Sorting dot plots
+2024-06-10T00:00:00.000Z,Functions with variable-length keyword arguments (**kwargs)
+2024-10-13T00:00:00.000Z,Choosing a vector database solution
+2024-10-13T00:00:00.000Z,Using request and response headers
+2024-06-10T00:00:00.000Z,Bringing it all together (3)
+2024-10-13T00:00:00.000Z,Handling errors with Requests (1)
+2024-07-20T00:00:00.000Z,Using attributes in class definition (2)
+2024-11-01T00:00:00.000Z,Interpreting scatter plots
+2024-09-15T00:00:00.000Z,The power of SQL lies in relationships between tables: INNER JOIN
+2024-09-15T00:00:00.000Z,Importing Stata files
+2024-06-11T00:00:00.000Z,Writing a function to help you
+2024-09-10T00:00:00.000Z,Embeddings
+2024-06-13T00:00:00.000Z,Built-in practice: range()
+2024-08-21T00:00:00.000Z,Stacked bar chart
+2024-08-14T00:00:00.000Z,Single vs. multi-task learning
+2024-10-18T00:00:00.000Z,Making your package portable
+2024-09-01T00:00:00.000Z,Updating categories
+2024-09-01T00:00:00.000Z,Reordering categories in a Series (1)
+2024-07-20T00:00:00.000Z,Customizing a DataFrame (1)
+2024-09-15T00:00:00.000Z,Final Thoughts
+2024-07-14T00:00:00.000Z,Retrieving docstrings
+2024-06-09T00:00:00.000Z,Write a simple function
+2024-08-13T00:00:00.000Z,To black box or not to black box?
+2024-09-25T00:00:00.000Z,Translation for multilingual communication
+2024-07-20T00:00:00.000Z,Customizing a DataFrame
+2024-08-21T00:00:00.000Z,Encoding time by color
+2024-08-28T00:00:00.000Z,Testing your package with different environments
+2024-11-02T00:00:00.000Z,Rose plots
+2024-04-27T00:00:00.000Z,Sorting and more formatting
+2024-06-11T00:00:00.000Z,Turning this all into a DataFrame
+2024-08-28T00:00:00.000Z,Wrap-up
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: string issues
+2024-04-27T00:00:00.000Z,Changing visuals
+2024-09-10T00:00:00.000Z,Iterating over a dataset (1)
+2024-08-17T00:00:00.000Z,Self Referencing is Classy
+2024-08-15T00:00:00.000Z,Selecting from a Selection (1)
+2024-07-21T00:00:00.000Z,Square and rectangle
+2024-08-21T00:00:00.000Z,Plotting time-series: putting it all together
+2024-06-15T00:00:00.000Z,Using %mprun: Hero BMI 2.0
+2024-07-20T00:00:00.000Z,Alternative constructors (2)
+2024-09-02T00:00:00.000Z,Creating an AI chatbot
+2024-10-14T00:00:00.000Z,Multiple queries and filtering
+2024-08-14T00:00:00.000Z,Challenges of language modeling
+2024-04-26T00:00:00.000Z,Transform before load
+2024-04-27T00:00:00.000Z,Editing properties
+2024-08-13T00:00:00.000Z,Computer vision
+2024-08-28T00:00:00.000Z,Exposing functions to users
+2024-10-18T00:00:00.000Z,Adding classes to a package
+2024-09-10T00:00:00.000Z,Filtering out audio files (1)
+2024-09-05T00:00:00.000Z,Importing flat files using pandas
+2024-10-04T00:00:00.000Z,Function calling definition
+2024-09-03T00:00:00.000Z,Creating meeting summaries
+2024-08-17T00:00:00.000Z,Inheriting the Spider
+2024-09-01T00:00:00.000Z,Bar plot using hue (3)
+2024-10-05T00:00:00.000Z,Investigating the vector space
+2024-10-13T00:00:00.000Z,Semantic search for products
+2024-10-13T00:00:00.000Z,API key authentication with requests (1)
+2024-07-21T00:00:00.000Z,Comparison and inheritance (1)
+2024-09-25T00:00:00.000Z,Incorporating external context
+2024-07-15T00:00:00.000Z,A tree inside the white-box
+2024-09-01T00:00:00.000Z,Creating a count plot
+2024-07-14T00:00:00.000Z,"DRY and ""Do One Thing"""
+2024-11-01T00:00:00.000Z,Interpreting line plots
+2024-09-01T00:00:00.000Z,Removing categories (4)
+2024-09-01T00:00:00.000Z,Ordinal categorical variables
+2024-08-28T00:00:00.000Z,Ignoring specific errors
+2024-09-15T00:00:00.000Z,How to import SAS7BDAT
+2024-10-15T00:00:00.000Z,Prompting strategies for chatbots
+2024-09-15T00:00:00.000Z,Importing SAS/Stata files using pandas
+2024-09-10T00:00:00.000Z,Iterating over a dataset (2)
+2024-06-15T00:00:00.000Z,Using %timeit: your turn! (3)
+2024-08-28T00:00:00.000Z,History file
+2024-10-12T00:00:00.000Z,Using the requests package
+2024-09-01T00:00:00.000Z,Adding categories (4)
+2024-09-02T00:00:00.000Z,Clustering
+2024-07-20T00:00:00.000Z,Create a subclass
+2024-06-11T00:00:00.000Z,Dict comprehensions
+2024-10-03T00:00:00.000Z,Choosing the right metric
+2024-09-05T00:00:00.000Z,Importing text files line by line
+2024-08-14T00:00:00.000Z,Business applications
+2024-06-11T00:00:00.000Z,Advanced comprehensions
+2024-09-15T00:00:00.000Z,The Hello World of SQL Queries!
+2024-10-18T00:00:00.000Z,Adding functionality to your package (2)
+2024-09-25T00:00:00.000Z,Modifying code with multi-step prompts
+2024-09-26T00:00:00.000Z,Masked language
+2024-10-13T00:00:00.000Z,Embedding restaurant reviews
+2024-07-15T00:00:00.000Z,An academic Proof-of-Concept (PoC)
+2024-07-15T00:00:00.000Z,Unboxing the SHAP
+2024-09-01T00:00:00.000Z,Create a label encoding and map (3)
+2024-11-05T00:00:00.000Z,Measuring model performance
+2024-09-15T00:00:00.000Z,Importing HDF5 files
+2024-10-03T00:00:00.000Z,Prompt compression
+2024-09-05T00:00:00.000Z,Customizing your spreadsheet import
+2024-07-21T00:00:00.000Z,Handling exception hierarchies (1)
+2024-09-01T00:00:00.000Z,Updating categorical plots (3)
+2024-10-04T00:00:00.000Z,Safety best practices
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: using NumPy arrays (1)
+2024-07-20T00:00:00.000Z,Exploring object interface
+2024-10-18T00:00:00.000Z,Column selection: .iloc[] vs by name (3)
+2024-06-09T00:00:00.000Z,Pop quiz on understanding scope
+2024-10-03T00:00:00.000Z,LLMOps versus MLOps
+2024-10-13T00:00:00.000Z,Receiving JSON with the requests package
+2024-06-10T00:00:00.000Z,Error handling with try-except
+2024-09-08T00:00:00.000Z,Pipelines with Hugging Face
+2024-11-05T00:00:00.000Z,The supervised learning workflow
+2024-10-03T00:00:00.000Z,Ideation phase
+2024-09-01T00:00:00.000Z,Categorical data in pandas
+2024-10-13T00:00:00.000Z,API key authentication with requests
+2024-09-02T00:00:00.000Z,Numerical EDA
+2024-10-18T00:00:00.000Z,Using inherited methods
+2024-08-14T00:00:00.000Z,What can a language model do?
+2024-06-13T00:00:00.000Z,Pop quiz: what is efficient
+2024-08-28T00:00:00.000Z,Adding the setup script
+2024-09-01T00:00:00.000Z,Creating a Boolean encoding (4)
+2024-10-03T00:00:00.000Z,The need for CI/CD
+2024-09-05T00:00:00.000Z,Using NumPy to import flat files
+2024-08-20T00:00:00.000Z,Plotting time-series data
+2024-07-15T00:00:00.000Z,"Data strategy, resources, and people"
+2024-10-13T00:00:00.000Z,Headers and status codes
+2024-10-12T00:00:00.000Z,Constructing a URL with parameters (1)
+2024-09-10T00:00:00.000Z,Normalizing text
+2024-09-01T00:00:00.000Z,Cleaning variables (2)
+2024-09-10T00:00:00.000Z,Generating a caption for an image
+2024-07-20T00:00:00.000Z,Class-level attributes
+2024-10-18T00:00:00.000Z,Writing your first package
+2024-09-26T00:00:00.000Z,Relationships between distant words
+2024-07-15T00:00:00.000Z,Best practices for AI democratization
+2024-10-18T00:00:00.000Z,"Python, data science, & software engineering"
+2024-07-21T00:00:00.000Z,Operator overloading: string representation
+2024-10-13T00:00:00.000Z,Basic Authentication with requests
+2024-07-15T00:00:00.000Z,Democratizing Artificial Intelligence
+2024-09-02T00:00:00.000Z,Digging into the response
+2024-10-13T00:00:00.000Z,Estimating embedding costs with tiktoken
+2024-09-02T00:00:00.000Z,Extract Transform Load
+2024-10-15T00:00:00.000Z,Splitting HTML
+2024-09-02T00:00:00.000Z,Creating an A/B testing workflow
+2024-10-05T00:00:00.000Z,The wonderful world of embeddings!
+2024-08-13T00:00:00.000Z,"AI, data science, and machine learning walk into a bar..."
+2024-10-15T00:00:00.000Z,Introduction to Pinecone indexes
+2024-10-03T00:00:00.000Z,Monitoring your application
+2024-10-18T00:00:00.000Z,Conforming to PEP 8
+2024-07-20T00:00:00.000Z,Class-level attributes (1)
+2024-10-04T00:00:00.000Z,Handling errors
+2024-08-28T00:00:00.000Z,Version numbers and history
+2024-10-18T00:00:00.000Z,Identifying good comments
+2024-10-04T00:00:00.000Z,Working with multiple functions
+2024-07-14T00:00:00.000Z,Split up a function (1)
+2024-09-02T00:00:00.000Z,Going with the workflow
+2024-06-15T00:00:00.000Z,Using %mprun: Hero BMI
+2024-07-20T00:00:00.000Z,Class anatomy: the __init__ constructor
+2024-10-13T00:00:00.000Z,Semantic search and enriched embeddings
+2024-06-11T00:00:00.000Z,Write a basic list comprehension
+2024-06-13T00:00:00.000Z,Building with built-ins
+2024-07-20T00:00:00.000Z,Create your first class (2)
+2024-08-20T00:00:00.000Z,Customizing axis labels and adding titles
+2024-08-20T00:00:00.000Z,Using a time index to zoom in
+2024-08-13T00:00:00.000Z,Regressing with class
+2024-10-13T00:00:00.000Z,Using request and response headers (2)
+2024-09-01T00:00:00.000Z,Creating a bar plot
+2024-06-13T00:00:00.000Z,A taste of things to come (1)
+2024-09-05T00:00:00.000Z,Using pandas to import flat files as DataFrames (2)
+2024-07-28T00:00:00.000Z,When the background isn't that obvious
+2024-09-01T00:00:00.000Z,Removing categories
+2024-09-15T00:00:00.000Z,Loading .mat files
+2024-07-15T00:00:00.000Z,Four ingredients to AI-driven organizations
+2024-09-02T00:00:00.000Z,Model Evaluation
+2024-10-18T00:00:00.000Z,Using pytest (2)
+2024-09-26T00:00:00.000Z,Overview of LLMOps
+2024-04-26T00:00:00.000Z,Learning from data
+2024-10-15T00:00:00.000Z,Sequential chains with LCEL
+2024-07-15T00:00:00.000Z,"One journey ends, another begins"
+2024-06-15T00:00:00.000Z,Using %lprun: spot bottlenecks
+2024-09-01T00:00:00.000Z,Creating a Boolean encoding (3)
+2024-06-15T00:00:00.000Z,Using %lprun: fix the bottleneck
+2024-07-26T00:00:00.000Z,Is this gray or full of color?
+2024-04-26T00:00:00.000Z,Algorithms and AI systems demystified
+2024-09-26T00:00:00.000Z,Challenges in building LLMs
+2024-07-15T00:00:00.000Z,The unsupervised intruder
+2024-11-01T00:00:00.000Z,Interpreting dot plots
+2024-10-18T00:00:00.000Z,Adding functionality to a child class (2)
+2024-09-05T00:00:00.000Z,Loading a pickled file
+2024-09-01T00:00:00.000Z,Accessing and filtering data
+2024-10-18T00:00:00.000Z,Writing a class for your package
+2024-08-13T00:00:00.000Z,Machine learning concepts
+2024-07-21T00:00:00.000Z,Custom exceptions
+2024-09-23T00:00:00.000Z,Combining Pokémon names and types (1)
+2024-08-21T00:00:00.000Z,Adding error-bars to a plot
+2024-10-03T00:00:00.000Z,Lifecycle of LLMs
+2024-04-26T00:00:00.000Z,A smart farming scenario!
+2024-10-18T00:00:00.000Z,Using your package's class
+2024-10-15T00:00:00.000Z,Integrating custom tools with agents
+2024-10-15T00:00:00.000Z,CSV document loaders
+2024-08-21T00:00:00.000Z,Save a figure with different sizes (2)
+2024-09-26T00:00:00.000Z,Generalized overview of NLP
+2024-07-21T00:00:00.000Z,Comparison and inheritance
+2024-06-13T00:00:00.000Z,The power of NumPy arrays
+2024-10-18T00:00:00.000Z,Documenting classes for Sphinx
+2024-06-10T00:00:00.000Z,Writing a lambda function you already know
+2024-04-26T00:00:00.000Z,The essentials of Power BI
+2024-09-01T00:00:00.000Z,Adding categories
+2024-10-18T00:00:00.000Z,Introduction to packages & documentation
+2024-10-12T00:00:00.000Z,Creating and deleting resources using an API (1)
+2024-10-03T00:00:00.000Z,Decoding the response
+2024-09-26T00:00:00.000Z,Data preparation
+2024-10-04T00:00:00.000Z,Handling exceptions
+2024-10-13T00:00:00.000Z,Handling content-types errors
+2024-10-13T00:00:00.000Z,API authentication methods
+2024-09-05T00:00:00.000Z,Final thoughts on data import
+2024-11-05T00:00:00.000Z,Inspect your clustering
+2024-09-01T00:00:00.000Z,Creating a categorical pandas Series
+2024-08-21T00:00:00.000Z,Saving a file several times (2)
+2024-09-01T00:00:00.000Z,Accessing and filtering data (2)
+2024-10-03T00:00:00.000Z,Keeping track of prompts
+2024-10-18T00:00:00.000Z,Minimal package requirements
+2024-09-02T00:00:00.000Z,Text summarization
+2024-08-21T00:00:00.000Z,Save a figure with different sizes
+2024-10-15T00:00:00.000Z,Implementing a summary memory
+2024-10-12T00:00:00.000Z,Creating and deleting resources using an API
+2024-09-25T00:00:00.000Z,Self-consistency prompts
+2024-10-18T00:00:00.000Z,Adding functionality to packages
+2024-06-10T00:00:00.000Z,Lambda functions
+2024-07-15T00:00:00.000Z,The thousand faces of sustainable AI
+2024-09-25T00:00:00.000Z,Writing improvement
+2024-11-01T00:00:00.000Z,Trends with scatter plots
+2024-09-01T00:00:00.000Z,Adding categories (3)
+2024-09-01T00:00:00.000Z,Wrap-up video
+2024-10-18T00:00:00.000Z,Using good variable names
+2024-08-20T00:00:00.000Z,Creating a grid of subplots
+2024-09-01T00:00:00.000Z,Setting dtypes and saving memory (4)
+2024-10-13T00:00:00.000Z,Requesting JSON data from an API
+2024-07-21T00:00:00.000Z,Create and set properties
+2024-09-15T00:00:00.000Z,Creating a database engine in Python
+2024-11-02T00:00:00.000Z,Pie plots
+2024-09-10T00:00:00.000Z,Summarization
+2024-09-02T00:00:00.000Z,Multi-turn chat completions with GPT
+2024-09-10T00:00:00.000Z,Filtering out audio files (2)
+2024-06-10T00:00:00.000Z,Default and flexible arguments
+2024-10-04T00:00:00.000Z,Setting a specific function
+2024-08-14T00:00:00.000Z,Crash Course in XPath
+2024-09-26T00:00:00.000Z,Word embeddings over bag-of-words
+2024-09-01T00:00:00.000Z,Reordering categories in a Series (3)
+2024-10-18T00:00:00.000Z,Recognizing packages
+2024-10-13T00:00:00.000Z,Response codes and APIs (1)
+2024-09-01T00:00:00.000Z,Setting dtypes and saving memory
+2024-04-08T00:00:00.000Z,What is Artificial Intelligence?
+2024-08-15T00:00:00.000Z,Selecting from a Selection
+2024-10-15T00:00:00.000Z,Preparing the documents and vector database
+2024-10-04T00:00:00.000Z,Adding guardrails
+2024-08-14T00:00:00.000Z,The rise of LLMs in the AI landscape
+2024-08-28T00:00:00.000Z,CONTRIBUTING.md
+2024-07-15T00:00:00.000Z,The AI and Internet-of-Things (IoT) symbiosis
+2024-08-28T00:00:00.000Z,Package and module documentation
+2024-10-04T00:00:00.000Z,Interpreting error messages
+2024-08-13T00:00:00.000Z,Natural Language Processing
+2024-10-13T00:00:00.000Z,Text similarity
+2024-11-04T00:00:00.000Z,Level of abstraction
+2024-11-02T00:00:00.000Z,What is cloud computing?
+2024-08-21T00:00:00.000Z,Switching between styles (1)
+2024-10-18T00:00:00.000Z,Identifying proper docstrings (2)
+2024-04-27T00:00:00.000Z,Filters
+2024-07-21T00:00:00.000Z,Congratulations!
+2024-09-15T00:00:00.000Z,Creating a database engine
+2024-06-15T00:00:00.000Z,Using %timeit: formal name or literal syntax (1)
+2024-09-10T00:00:00.000Z,Generating text from a text prompt (2)
+2024-07-20T00:00:00.000Z,Exploring object interface (1)
+2024-09-25T00:00:00.000Z,Multi-step prompt to plan a trip
+2024-10-18T00:00:00.000Z,Writing a class for your package (2)
+2024-09-23T00:00:00.000Z,Combining Pokémon names and types
+2024-11-01T00:00:00.000Z,Bar plots
+2024-09-10T00:00:00.000Z,Semantic search
+2024-09-01T00:00:00.000Z,Setting dtype when reading data
+2024-10-12T00:00:00.000Z,Introduction to APIs
+2024-11-01T00:00:00.000Z,Box plots
+2024-10-18T00:00:00.000Z,Using inherited methods (3)
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: string issues (1)
+2024-06-11T00:00:00.000Z,List comprehension over iterables
+2024-10-18T00:00:00.000Z,Identifying proper docstrings (1)
+2024-08-14T00:00:00.000Z,Attributes
+2024-10-18T00:00:00.000Z,Writing a non-public method
+2024-09-01T00:00:00.000Z,Setting dtypes and saving memory (3)
+2024-07-26T00:00:00.000Z,Flipping out (1)
+2024-08-17T00:00:00.000Z,Titular
+2024-08-21T00:00:00.000Z,Quantitative comparisons: scatter plots
+2024-09-10T00:00:00.000Z,Generating text from a text prompt (1)
+2024-08-20T00:00:00.000Z,Customizing data appearance
+2024-04-27T00:00:00.000Z,The underlying data and hierarchies
+2024-10-18T00:00:00.000Z,Listing requirements in setup.py
+2024-06-11T00:00:00.000Z,Writing an iterator to load data in chunks (2)
+2024-09-02T00:00:00.000Z,What is the OpenAI API?
+2024-09-25T00:00:00.000Z,Introduction to prompt engineering
+2024-10-03T00:00:00.000Z,Testing
+2024-09-01T00:00:00.000Z,Accessing and filtering data (1)
+2024-07-20T00:00:00.000Z,Method inheritance
+2024-07-14T00:00:00.000Z,Docstrings to the rescue!
+2024-10-12T00:00:00.000Z,Constructing a URL with parameters
+2024-09-01T00:00:00.000Z,Setting dtype when reading data (2)
+2024-08-14T00:00:00.000Z,Divvy Up This Exercise
+2024-08-14T00:00:00.000Z,A classy span
+2024-09-03T00:00:00.000Z,Speech Translation with Whisper
+2024-08-15T00:00:00.000Z,"Get an ""a"" in this Course"
+2024-10-13T00:00:00.000Z,Sending JSON with the requests package
+2024-09-01T00:00:00.000Z,Categorical vs. numerical
+2024-11-05T00:00:00.000Z,k-Nearest Neighbors: Predict
+2024-10-03T00:00:00.000Z,Prompt injection
+2024-09-01T00:00:00.000Z,One visualization per group
+2024-10-18T00:00:00.000Z,Documentation
+2024-09-10T00:00:00.000Z,Iterating over a dataset
+2024-08-20T00:00:00.000Z,Plotting time-series with different variables
+2024-06-11T00:00:00.000Z,Final thoughts
+2024-09-25T00:00:00.000Z,Product features summarization
+2024-09-08T00:00:00.000Z,Inspecting datasets
+2024-06-13T00:00:00.000Z,Practice with NumPy arrays (1)
+2024-09-05T00:00:00.000Z,Introduction to other file types
+2024-04-26T00:00:00.000Z,AI for smarter traffic lights
+2024-10-04T00:00:00.000Z,Potential for model errors
+2024-09-01T00:00:00.000Z,Memory usage knowledge check
+2024-09-25T00:00:00.000Z,Creating the get_response() function
+2024-07-20T00:00:00.000Z,Changing class attributes (1)
+2024-08-14T00:00:00.000Z,Requesting a Selector
+2024-06-15T00:00:00.000Z,Using %timeit: your turn! (2)
+2024-07-21T00:00:00.000Z,Handling exception hierarchies
+2024-06-11T00:00:00.000Z,List comprehensions for time-stamped data
+2024-10-13T00:00:00.000Z,Adding data to the collection
+2024-08-17T00:00:00.000Z,Capstone
+2024-09-01T00:00:00.000Z,Updating categorical plots (1)
+2024-06-13T00:00:00.000Z,Practice with NumPy arrays (2)
+2024-07-15T00:00:00.000Z,Is your deployed AI system successful?
+2024-07-15T00:00:00.000Z,The biased vehicle
+2024-09-01T00:00:00.000Z,Adding categories (1)
+2024-10-15T00:00:00.000Z,Creating a RAG chain
+2024-09-10T00:00:00.000Z,Audio classification
+2024-06-11T00:00:00.000Z,Writing an iterator to load data in chunks (5)
+2024-10-13T00:00:00.000Z,Enriching embeddings
+2024-10-18T00:00:00.000Z,Using your child class
+2024-10-05T00:00:00.000Z,Creating embeddings
+2024-09-02T00:00:00.000Z,Making requests to the OpenAI API
+2024-07-21T00:00:00.000Z,Overloading equality
+2024-09-01T00:00:00.000Z,Ordering categories (3)
+2024-10-13T00:00:00.000Z,Response codes and APIs (3)
+2024-08-13T00:00:00.000Z,Unsupervised learning
+2024-09-01T00:00:00.000Z,Grouping data by category in pandas
+2024-10-04T00:00:00.000Z,Adversarial testing
+2024-04-27T00:00:00.000Z,Working with hierarchies
+2024-04-26T00:00:00.000Z,More columns
+2024-04-27T00:00:00.000Z,Looking at the data
+2024-06-11T00:00:00.000Z,Using * and zip to 'unzip'
+2024-07-20T00:00:00.000Z,Using attributes in class definition (3)
+2024-10-15T00:00:00.000Z,Integrating a chatbot message history
+2024-09-05T00:00:00.000Z,Welcome to the course!
+2024-04-27T00:00:00.000Z,Making it look good
+2024-06-11T00:00:00.000Z,Writing list comprehensions
+2024-06-09T00:00:00.000Z,User-defined functions
+2024-04-27T00:00:00.000Z,Choosing the right visual
+2024-08-25T00:00:00.000Z,From script to package
+2024-11-01T00:00:00.000Z,Dot plots
+2024-11-01T00:00:00.000Z,Interpreting bar plots
+2024-09-10T00:00:00.000Z,Filtering out audio files (3)
+2024-06-11T00:00:00.000Z,Changing the output in generator expressions
+2024-10-18T00:00:00.000Z,Leveraging documentation (1)
+2024-08-13T00:00:00.000Z,Land of confusion
+2024-08-15T00:00:00.000Z,Reveal By Response
+2024-07-21T00:00:00.000Z,What do properties do?
+2024-11-02T00:00:00.000Z,Axes of evil
+2024-06-15T00:00:00.000Z,Using %timeit: formal name or literal syntax (2)
+2024-08-28T00:00:00.000Z,Faster package development with templates
+2024-10-04T00:00:00.000Z,Setting token limits
+2024-10-05T00:00:00.000Z,Digging into the embeddings response (2)
+2024-10-04T00:00:00.000Z,Handling the response with external API calls
+2024-07-21T00:00:00.000Z,Polymorphic methods
+2024-09-02T00:00:00.000Z,In-context learning
+2024-09-25T00:00:00.000Z,Controlling output structure
+2024-08-20T00:00:00.000Z,Small multiples with shared y axis
+2024-09-25T00:00:00.000Z,Input-output examples for code generation
+2024-09-25T00:00:00.000Z,Code generation with problem description
+2024-08-28T00:00:00.000Z,PyPI classifiers
+2024-09-05T00:00:00.000Z,Importing flat files using NumPy
+2024-09-08T00:00:00.000Z,Comparing models with the pipeline
+2024-08-21T00:00:00.000Z,Saving a file several times (1)
+2024-08-15T00:00:00.000Z,You've been `href`ed
+2024-08-28T00:00:00.000Z,Installing your package locally
+2024-07-20T00:00:00.000Z,OOP termininology
+2024-06-11T00:00:00.000Z,Using a list comprehension
+2024-10-03T00:00:00.000Z,Prompt engineering
+2024-10-18T00:00:00.000Z,Identifying tools
+2024-11-01T00:00:00.000Z,Line plots
+2024-07-26T00:00:00.000Z,RGB to grayscale
+2024-08-21T00:00:00.000Z,Quantitative comparisons: histograms
+2024-06-11T00:00:00.000Z,Playing with iterators
+2024-10-15T00:00:00.000Z,Splitting external data for retrieval
+2024-06-11T00:00:00.000Z,Using conditionals in comprehensions (1)
+2024-09-25T00:00:00.000Z,Customizing output format
+2024-11-04T00:00:00.000Z,"IaaS, PaaS, or SaaS?"
+2024-09-02T00:00:00.000Z,Chat completions with GPT
+2024-10-18T00:00:00.000Z,Exploring with dir and help (1)
+2024-10-18T00:00:00.000Z,Readability counts
+2024-10-15T00:00:00.000Z,OpenAI models in LangChain!
+2024-08-28T00:00:00.000Z,Using package templates
+2024-07-14T00:00:00.000Z,Split up a function
+2024-08-28T00:00:00.000Z,Makefiles and classifiers
+2024-11-05T00:00:00.000Z,Overfitting and underfitting
+2024-07-21T00:00:00.000Z,Read-only properties (3)
+2024-08-28T00:00:00.000Z,Using makefiles
+2024-10-04T00:00:00.000Z,Defining function calling
+2024-10-14T00:00:00.000Z,Querying and updating the database
+2024-09-26T00:00:00.000Z,Advanced fine-tuning
+2024-11-01T00:00:00.000Z,Continuous vs. categorical variables
+2024-06-09T00:00:00.000Z,Functions that return single values
+2024-09-01T00:00:00.000Z,Create a label encoding and map
+2024-10-18T00:00:00.000Z,Identifying proper docstrings
+2024-10-07T00:00:00.000Z,Visualizing the embedded descriptions (3)
+2024-07-14T00:00:00.000Z,Crafting a docstring (3)
+2024-08-21T00:00:00.000Z,Creating boxplots
+2024-04-26T00:00:00.000Z,Data Analyst in Power BI track
+2024-09-01T00:00:00.000Z,Exploring a target variable (3)
+2024-10-13T00:00:00.000Z,More repeatable embeddings
+2024-09-25T00:00:00.000Z,Customer support chatbot
+2024-08-14T00:00:00.000Z,Course Class by Inspection
+2024-08-21T00:00:00.000Z,Saving a file several times
+2024-07-20T00:00:00.000Z,Add a class constructor (3)
+2024-07-20T00:00:00.000Z,Create your first class (3)
+2024-07-21T00:00:00.000Z,Exceptions
+2024-08-14T00:00:00.000Z,Divvy Up This Exercise (2)
+2024-06-11T00:00:00.000Z,Build a generator
+2024-09-02T00:00:00.000Z,Intermediate results
+2024-10-18T00:00:00.000Z,Using pytest (1)
+2024-10-04T00:00:00.000Z,Avoiding inconsistent responses
+2024-09-10T00:00:00.000Z,What about the original image?
+2024-09-26T00:00:00.000Z,Self vs. multi-head attention
+2024-07-21T00:00:00.000Z,Square and rectangle (2)
+2024-06-11T00:00:00.000Z,Processing large amounts of Twitter data
+2024-08-13T00:00:00.000Z,Supervised learning
+2024-09-01T00:00:00.000Z,Exploring a target variable (2)
+2024-06-10T00:00:00.000Z,Functions with one default argument
+2024-08-15T00:00:00.000Z,Respond Please!
+2024-09-25T00:00:00.000Z,Text summarization and expansion
+2024-07-15T00:00:00.000Z,Challenges and success stories
+2024-04-26T00:00:00.000Z,Inside a pizza AI system
+2024-10-13T00:00:00.000Z,Basic Authentication with requests (1)
+2024-08-14T00:00:00.000Z,LLMs in the AI landscape
+2024-10-15T00:00:00.000Z,The LangChain ecosystem
+2024-10-05T00:00:00.000Z,Embedding product descriptions
+2024-07-15T00:00:00.000Z,"The ""zen"" of MLOps"
+2024-07-15T00:00:00.000Z,Explaining wine quality
+2024-10-18T00:00:00.000Z,The need for efficient coding I
+2024-11-01T00:00:00.000Z,Histograms
+2024-07-21T00:00:00.000Z,Handling exception hierarchies (2)
+2024-07-20T00:00:00.000Z,Create a subclass (2)
+2024-09-26T00:00:00.000Z,Fine-tune a model
+2024-08-21T00:00:00.000Z,Automating figures from data
+2024-09-26T00:00:00.000Z,Data concerns and considerations
+2024-09-26T00:00:00.000Z,Analyzing literary works
+2024-11-05T00:00:00.000Z,k-Nearest Neighbors: Fit
+2024-09-15T00:00:00.000Z,Importing MATLAB files
+2024-08-13T00:00:00.000Z,What is deep learning?
+2024-09-25T00:00:00.000Z,Structured outputs and conditional prompts
+2024-08-28T00:00:00.000Z,Importing from parents
+2024-09-01T00:00:00.000Z,Creating a point plot
+2024-04-26T00:00:00.000Z,Slicers
+2024-09-15T00:00:00.000Z,Querying relational databases directly with pandas
+2024-06-09T00:00:00.000Z,Functions that return multiple values
+2024-08-21T00:00:00.000Z,Using a plotting function
+2024-10-13T00:00:00.000Z,Creating vector databases with ChromaDB
+2024-08-28T00:00:00.000Z,MANIFEST - Including extra files with your package
+2024-10-18T00:00:00.000Z,The big ideas
+2024-11-05T00:00:00.000Z,Machine learning with scikit-learn
+2024-08-21T00:00:00.000Z,Selecting a style for printing
+2024-11-02T00:00:00.000Z,Chartjunk
+2024-06-11T00:00:00.000Z,Writing an iterator to load data in chunks (4)
+2024-09-10T00:00:00.000Z,Text classification
+2024-07-20T00:00:00.000Z,What is OOP?
+2024-06-10T00:00:00.000Z,Pop quiz about errors
+2024-08-21T00:00:00.000Z,Saving your visualizations
+2024-07-15T00:00:00.000Z,Acquiring data
+2024-07-20T00:00:00.000Z,Create your first class
+2024-10-13T00:00:00.000Z,To metadata or not to metadata?
+2024-09-26T00:00:00.000Z,Is your model fair?
+2024-09-25T00:00:00.000Z,Role-playing prompts for chatbots
+2024-05-11T00:00:00.000Z,Know your audience
+2024-06-15T00:00:00.000Z,Bringing it all together: Festivus! (4)
+2024-09-02T00:00:00.000Z,Assigning data science project
+2024-09-02T00:00:00.000Z,Digging into the response (2)
+2024-09-02T00:00:00.000Z,Sentiment analysis and classification
+2024-11-05T00:00:00.000Z,How many clusters?
+2024-04-08T00:00:00.000Z,An AI workflow in medicine
+2024-05-04T00:00:00.000Z,Introduction to DAX in Power BI
+2024-09-19T00:00:00.000Z,Problem solving with LLMs
+2024-09-01T00:00:00.000Z,Adding categories (2)
+2024-08-28T00:00:00.000Z,Dealing with dependencies
+2024-08-28T00:00:00.000Z,Structuring imports
+2024-11-01T00:00:00.000Z,Interpreting pair plots
+2024-09-10T00:00:00.000Z,Using the fine-tuned model
+2024-10-15T00:00:00.000Z,Integrating document loaders
+2024-06-10T00:00:00.000Z,Functions with multiple default arguments
+2024-10-03T00:00:00.000Z,Data integrity and poisoning
+2024-10-04T00:00:00.000Z,Moderation
+2024-06-13T00:00:00.000Z,Zen of Python
+2024-05-11T00:00:00.000Z,Create a scatter plot
+2024-09-26T00:00:00.000Z,Where are LLMs heading?
+2024-10-18T00:00:00.000Z,Installing packages with pip
+2024-11-05T00:00:00.000Z,The classification challenge
+2024-08-25T00:00:00.000Z,Starting a package
+2024-04-26T00:00:00.000Z,Table
+2024-08-21T00:00:00.000Z,Switching between styles (2)
+2024-08-21T00:00:00.000Z,Preparing your figures to share with others
+2024-09-01T00:00:00.000Z,Introduction to categorical plots using Seaborn
+2024-10-15T00:00:00.000Z,Wrap-up!
+2024-11-05T00:00:00.000Z,Train/test split + computing accuracy
+2024-09-05T00:00:00.000Z,Customizing your pandas import
+2024-09-01T00:00:00.000Z,Boxplot understanding
+2024-08-21T00:00:00.000Z,Creating histograms
+2024-06-11T00:00:00.000Z,Extracting information for large amounts of Twitter data
+2024-04-26T00:00:00.000Z,Formatting currency
+2024-10-15T00:00:00.000Z,PDF document loaders
+2024-09-25T00:00:00.000Z,Reasoning with chain-of-thought prompts
+2024-09-15T00:00:00.000Z,The structure of .mat in Python
+2024-10-03T00:00:00.000Z,Monitoring and observability
+2024-07-26T00:00:00.000Z,Flipping out (2)
+2024-09-03T00:00:00.000Z,Transcribing a non-English language
+2024-11-01T00:00:00.000Z,Motivating visualization
+2024-09-25T00:00:00.000Z,Few-shot prompting
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: using NumPy arrays (3)
+2024-10-13T00:00:00.000Z,Handling errors with Requests
+2024-09-01T00:00:00.000Z,Updating categorical plots
+2024-09-01T00:00:00.000Z,Updating categorical plots (2)
+2024-08-14T00:00:00.000Z,Selector Objects
+2024-09-01T00:00:00.000Z,Create lots of groups
+2024-09-01T00:00:00.000Z,Accessing and filtering data (4)
+2024-06-09T00:00:00.000Z,Recapping built-in functions
+2024-10-18T00:00:00.000Z,Unit testing
+2024-09-15T00:00:00.000Z,Ordering your SQL records with ORDER BY
+2024-07-20T00:00:00.000Z,Inheritance of class attributes
+2024-07-15T00:00:00.000Z,"Home, secured home"
+2024-08-13T00:00:00.000Z,Gotta cluster 'em all!
+2024-09-26T00:00:00.000Z,Focus of multi-head attention
+2024-10-13T00:00:00.000Z,Basic Authentication with requests (2)
+2024-10-13T00:00:00.000Z,Error handling
+2024-04-26T00:00:00.000Z,Understanding AI subdomains
+2024-09-02T00:00:00.000Z,Why data science?
+2024-09-10T00:00:00.000Z,Processing image data
+2024-06-13T00:00:00.000Z,A taste of things to come (3)
+2024-09-08T00:00:00.000Z,Searching the Hub with Python
+2024-06-11T00:00:00.000Z,List comprehensions
+2024-09-26T00:00:00.000Z,Building an LLM
+2024-09-25T00:00:00.000Z,Product description expansion
+2024-09-01T00:00:00.000Z,Reordering categories
+2024-09-26T00:00:00.000Z,Adapt a pre-trained model
+2024-06-15T00:00:00.000Z,Code profiling for runtime
+2024-06-15T00:00:00.000Z,Using %timeit: your turn!
+2024-10-18T00:00:00.000Z,What does time.time() measure?
+2024-09-10T00:00:00.000Z,Processing and classifying images
+2024-06-11T00:00:00.000Z,Introduction to generator expressions
+2024-09-25T00:00:00.000Z,Chain-of-thought and self-consistency prompting
+2024-11-01T00:00:00.000Z,Another dimension for line plots
+2024-09-25T00:00:00.000Z,Behavioral control of a customer support chatbot
+2024-08-13T00:00:00.000Z,Machine learning lingo
+2024-08-14T00:00:00.000Z,From XPath to CSS
+2024-09-10T00:00:00.000Z,Creating an image classifier
+2024-09-26T00:00:00.000Z,Creativity vs. efficiency
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: using NumPy arrays (2)
+2024-10-04T00:00:00.000Z,Validation
+2024-09-01T00:00:00.000Z,Exploring a target variable
+2024-11-01T00:00:00.000Z,Interpreting box plots
+2024-09-15T00:00:00.000Z,Filtering your database records using SQL's WHERE
+2024-10-18T00:00:00.000Z,Column selection: .iloc[] vs by name
+2024-10-12T00:00:00.000Z,Creating and deleting resources using an API (4)
+2024-10-04T00:00:00.000Z,Calling external APIs
+2024-04-27T00:00:00.000Z,Visualization options
+2024-08-14T00:00:00.000Z,Where it's @
+2024-10-18T00:00:00.000Z,Using inherited methods (2)
+2024-09-01T00:00:00.000Z,Setting dtypes and saving memory (1)
+2024-09-10T00:00:00.000Z,Visual question and answering
+2024-08-13T00:00:00.000Z,Deep learning
+2024-09-25T00:00:00.000Z,Multi-step prompting
+2024-07-20T00:00:00.000Z,Add a class constructor (2)
+2024-06-11T00:00:00.000Z,Iterating over iterables (1)
+2024-09-26T00:00:00.000Z,Ethical and environmental concerns
+2024-08-28T00:00:00.000Z,User dependencies
+2024-09-02T00:00:00.000Z,Code explanation
+2024-10-15T00:00:00.000Z,Creating custom tools
+2024-07-26T00:00:00.000Z,Flipping out (3)
+2024-10-18T00:00:00.000Z,Writing a class for your package (1)
+2024-09-05T00:00:00.000Z,Not so flat any more
+2024-08-14T00:00:00.000Z,Automate data-driven tasks
+2024-09-15T00:00:00.000Z,Using File to import HDF5 files
+2024-11-02T00:00:00.000Z,Multiple plots
+2024-09-05T00:00:00.000Z,Pop quiz: what exactly are flat files?
+2024-10-14T00:00:00.000Z,Filtering using metadata
+2024-09-10T00:00:00.000Z,NLP and tokenization
+2024-08-13T00:00:00.000Z,Machine learning workflow
+2024-08-14T00:00:00.000Z,XPath Chaining
+2024-07-14T00:00:00.000Z,Retrieving docstrings (2)
+2024-08-28T00:00:00.000Z,Creating the test directory
+2024-10-15T00:00:00.000Z,Splitting by character
+2024-11-02T00:00:00.000Z,Sensory overload
+2024-09-01T00:00:00.000Z,Reordering categories in a Series
+2024-08-21T00:00:00.000Z,Defining a function that plots time-series data
+2024-07-20T00:00:00.000Z,Exploring object interface (3)
+2024-09-08T00:00:00.000Z,Loading datasets
+2024-08-17T00:00:00.000Z,Crawler Time
+2024-09-10T00:00:00.000Z,Use cases for embeddings
+2024-04-26T00:00:00.000Z,Transforming and formatting columns
+2024-08-13T00:00:00.000Z,Supervised vs unsupervised
+2024-09-01T00:00:00.000Z,Seaborn bar plots
+2024-08-21T00:00:00.000Z,Adding error-bars to a bar chart
+2024-09-10T00:00:00.000Z,Resampling audio files
+2024-06-10T00:00:00.000Z,Functions with variable-length arguments (*args)
+2024-11-05T00:00:00.000Z,Introduction to regression
+2024-07-14T00:00:00.000Z,Retrieving docstrings (1)
+2024-10-03T00:00:00.000Z,RAG versus fine-tuning
+2024-08-17T00:00:00.000Z,Scraping with Children
+2024-07-21T00:00:00.000Z,Create and set properties (3)
+2024-10-03T00:00:00.000Z,The application lifecycle
+2024-07-21T00:00:00.000Z,Square and rectangle (4)
+2024-08-13T00:00:00.000Z,True or false?
+2024-07-15T00:00:00.000Z,Social challenges: the future of AI
+2024-09-01T00:00:00.000Z,Reordering categories in a Series (2)
+2024-09-15T00:00:00.000Z,Customizing the Hello World of SQL Queries
+2024-10-12T00:00:00.000Z,The 4 most important HTTP Verbs
+2024-04-27T00:00:00.000Z,Adding a filter
+2024-06-11T00:00:00.000Z,Using Python generators for streaming data
+2024-06-15T00:00:00.000Z,Using %timeit: formal name or literal syntax (3)
+2024-10-03T00:00:00.000Z,The purpose of lifecycle phases
+2024-10-14T00:00:00.000Z,Querying with multiple texts
+2024-11-05T00:00:00.000Z,Binary classification
+2024-04-27T00:00:00.000Z,Creating a hierarchy
+2024-09-02T00:00:00.000Z,Examining moderation category scores
+2024-09-15T00:00:00.000Z,Pandas for more complex querying
+2024-10-04T00:00:00.000Z,Wrap-up
+2024-07-20T00:00:00.000Z,Write a class from scratch
+2024-09-01T00:00:00.000Z,Setting up a .groupby() statement
+2024-08-13T00:00:00.000Z,Sentiment analysis
+2024-06-10T00:00:00.000Z,Introduction to error handling
+2024-06-11T00:00:00.000Z,Wrapping up comprehensions and generators.
+2024-09-01T00:00:00.000Z,Removing categories (3)
+2024-09-01T00:00:00.000Z,Label encoding
+2024-07-14T00:00:00.000Z,Crafting a docstring (2)
+2024-08-17T00:00:00.000Z,Starting with Start Requests
+2024-10-18T00:00:00.000Z,Row selection: loc[] vs iloc[] (3)
+2024-07-21T00:00:00.000Z,String representation of objects (1)
+2024-10-03T00:00:00.000Z,The importance of prompt engineering
+2024-11-05T00:00:00.000Z,Visualizing model complexity
+2024-09-23T00:00:00.000Z,Combining Pokémon names and types (3)
+2024-06-10T00:00:00.000Z,Nested Functions I
+2024-09-10T00:00:00.000Z,Using min_length and max_length (2)
+2024-10-13T00:00:00.000Z,Response codes and APIs
+2024-10-13T00:00:00.000Z,Response codes and APIs (2)
+2024-07-15T00:00:00.000Z,Paola and the fashion project
+2024-10-18T00:00:00.000Z,Documentation & testing in practice
+2024-09-15T00:00:00.000Z,Using h5py to import HDF5 files
+2024-09-15T00:00:00.000Z,Pandas and The Hello World of SQL Queries!
+2024-08-14T00:00:00.000Z,From Tree to HTML
+2024-10-15T00:00:00.000Z,Introduction to LangChain agents
+2024-09-10T00:00:00.000Z,Benefits and challenges of embeddings
+2024-10-18T00:00:00.000Z,Row selection: loc[] vs iloc[] (2)
+2024-10-18T00:00:00.000Z,Using pycodestyle
+2024-07-15T00:00:00.000Z,Performance stories
+2024-09-10T00:00:00.000Z,Semantic search versus keyword search
+2024-09-25T00:00:00.000Z,Using delimited prompts with f-strings
+2024-08-13T00:00:00.000Z,Limits of machine learning
+2024-06-09T00:00:00.000Z,Strings in Python
+2024-09-10T00:00:00.000Z,Using min_length and max_length
+2024-10-03T00:00:00.000Z,Selecting the right base model
+2024-07-20T00:00:00.000Z,Inheritance of class attributes (2)
+2024-09-02T00:00:00.000Z,Visual EDA
+2024-07-21T00:00:00.000Z,Create and set properties (4)
+2024-10-18T00:00:00.000Z,Row selection: loc[] vs iloc[]
+2024-09-02T00:00:00.000Z,Supervised vs. unsupervised
+2024-06-11T00:00:00.000Z,Iterators as function arguments
+2024-11-02T00:00:00.000Z,Polar coordinates
+2024-09-23T00:00:00.000Z,Combining Pokémon names and types (2)
+2024-08-14T00:00:00.000Z,Web-scraping is not nonsense!
+2024-09-10T00:00:00.000Z,Document question and answering
+2024-09-01T00:00:00.000Z,Cleaning variables (1)
+2024-09-26T00:00:00.000Z,Un-biased and relevant
+2024-10-13T00:00:00.000Z,API key authentication with requests (2)
+2024-08-17T00:00:00.000Z,Parse and Crawl
+2024-08-20T00:00:00.000Z,Customizing your plots
+2024-09-23T00:00:00.000Z,Counting Pokémon from a sample
+2024-06-09T00:00:00.000Z,A brief introduction to tuples
+2024-04-27T00:00:00.000Z,Using the slicer
+2024-08-15T00:00:00.000Z,All Level Text
+2024-10-15T00:00:00.000Z,Defining a function for tool use
+2024-08-20T00:00:00.000Z,Creating small multiples with plt.subplots
+2024-11-04T00:00:00.000Z,Key characteristics
+2024-09-26T00:00:00.000Z,Predict the next word
+2024-06-10T00:00:00.000Z,Filter() and lambda functions
+2024-09-02T00:00:00.000Z,Find and replace
+2024-09-02T00:00:00.000Z,Generating and transforming text
+2024-10-04T00:00:00.000Z,Building a function dictionary
+2024-06-13T00:00:00.000Z,Bringing it all together: Festivus! (2)
+2024-10-12T00:00:00.000Z,Constructing a URL with parameters (3)
+2024-07-15T00:00:00.000Z,Deep Learning is here to stay
+2024-08-28T00:00:00.000Z,Publishing your package
+2024-08-15T00:00:00.000Z,CSS Attributes and Text Selection
+2024-11-05T00:00:00.000Z,Unsupervised Learning
+2024-07-15T00:00:00.000Z,Explainability and interpretability
+2024-08-17T00:00:00.000Z,Hurl the URLs
+2024-04-26T00:00:00.000Z,Your first visualization
+2024-09-10T00:00:00.000Z,Word error rate
+2024-10-03T00:00:00.000Z,Cost management
+2024-09-08T00:00:00.000Z,Manipulating datasets
+2024-10-15T00:00:00.000Z,HTML document loaders
+2024-06-10T00:00:00.000Z,Reduce() and lambda functions
+2024-10-14T00:00:00.000Z,Updating and deleting items from a collection
+2024-09-26T00:00:00.000Z,Transformer components
+2024-09-01T00:00:00.000Z,Cleaning variables (3)
+2024-07-20T00:00:00.000Z,Create your first class (1)
+2024-09-02T00:00:00.000Z,Digging into the response (1)
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: string issues (3)
+2024-10-13T00:00:00.000Z,Computing cosine distances
+2024-07-15T00:00:00.000Z,Paola and the human side of AI
+2024-11-02T00:00:00.000Z,Understanding the cloud
+2024-09-01T00:00:00.000Z,Collapsing categories
+2024-08-14T00:00:00.000Z,AI vs. LLM applications
+2024-09-26T00:00:00.000Z,Customer service of a bank
+2024-08-21T00:00:00.000Z,Automate your visualization
+2024-09-08T00:00:00.000Z,Transformers and the Hub
+2024-06-13T00:00:00.000Z,Built-in practice: map()
+2024-10-04T00:00:00.000Z,Formatting model response as JSON
+2024-07-20T00:00:00.000Z,Exploring object interface (2)
+2024-09-02T00:00:00.000Z,Chat Completions roles
+2024-11-02T00:00:00.000Z,Cloud vs. on-premise
+2024-09-01T00:00:00.000Z,Cleaning and accessing data
+2024-10-05T00:00:00.000Z,What are embeddings?
+2024-08-13T00:00:00.000Z,The process
+2024-10-04T00:00:00.000Z,Including end-user IDs
+2024-09-26T00:00:00.000Z,Learning techniques
+2024-10-05T00:00:00.000Z,Digging into the embeddings response (1)
+2024-10-18T00:00:00.000Z,Python modularity in the wild
+2024-10-04T00:00:00.000Z,Moderation API
+2024-08-14T00:00:00.000Z,"Get an ""a"" in this Course (1)"
+2024-08-13T00:00:00.000Z,Classifying machine learning tasks
+2024-09-26T00:00:00.000Z,Time to wrap-up
+2024-10-18T00:00:00.000Z,Measuring time II
+2024-06-15T00:00:00.000Z,Using %timeit: your turn! (1)
+2024-09-25T00:00:00.000Z,"Zero-shot, one-shot, and few-shot prompting"
+2024-09-25T00:00:00.000Z,Is this prompt effective?
+2024-06-11T00:00:00.000Z,Zipping dictionaries
+2024-11-04T00:00:00.000Z,Cloud service models
+2024-09-15T00:00:00.000Z,Using read_stata to import Stata files
+2024-08-28T00:00:00.000Z,Writing function documentation with pyment
+2024-08-15T00:00:00.000Z,Top Level Text
+2024-09-25T00:00:00.000Z,Sentiment analysis with few-shot prompting
+2024-10-18T00:00:00.000Z,Writing requirements.txt
+2024-08-28T00:00:00.000Z,Keeping your package stylish
+2024-09-26T00:00:00.000Z,Responsible use
+2024-09-01T00:00:00.000Z,Ordering categories (2)
+2024-09-02T00:00:00.000Z,Classifying text sentiment
+2024-09-05T00:00:00.000Z,Customizing your NumPy import
+2024-10-13T00:00:00.000Z,Handling errors with Requests (2)
+2024-09-02T00:00:00.000Z,Digging into the response (3)
+2024-09-25T00:00:00.000Z,Iterative prompt engineering process
+2024-10-15T00:00:00.000Z,Chat prompt templates
+2024-09-25T00:00:00.000Z,Single-step prompt to plan a trip
+2024-08-25T00:00:00.000Z,Putting your package to work
+2024-08-14T00:00:00.000Z,Divvy Up This Exercise (1)
+2024-10-03T00:00:00.000Z,Chains and agents
+2024-04-26T00:00:00.000Z,Slicers and Tables
+2024-09-15T00:00:00.000Z,Querying relational databases in Python
+2024-10-18T00:00:00.000Z,PEP 8 in documentation
+2024-04-26T00:00:00.000Z,Predictive vs Generative AI
+2024-08-17T00:00:00.000Z,Pen Names
+2024-09-10T00:00:00.000Z,The process of generating text
+2024-10-15T00:00:00.000Z,Creating a Pinecone client
+2024-11-01T00:00:00.000Z,Using color
+2024-09-01T00:00:00.000Z,Create a label encoding and map (2)
+2024-07-14T00:00:00.000Z,Crafting a docstring (4)
+2024-09-25T00:00:00.000Z,Providing context through sample conversations
+2024-09-03T00:00:00.000Z,Identifying audio language
+2024-08-21T00:00:00.000Z,Simple scatter plot
+2024-06-09T00:00:00.000Z,Single-parameter functions
+2024-04-27T00:00:00.000Z,Drilling down and filtering
+2024-10-03T00:00:00.000Z,Making a cost prognosis
+2024-08-13T00:00:00.000Z,Spotting bias in machine learning
+2024-06-11T00:00:00.000Z,Nested list comprehensions
+2024-09-02T00:00:00.000Z,Building an OpenAI API request
+2024-11-05T00:00:00.000Z,Clustering 2D points
+2024-08-28T00:00:00.000Z,Building a distribution
+2024-10-13T00:00:00.000Z,Final thoughts
+2024-06-11T00:00:00.000Z,Congratulations!
+2024-09-25T00:00:00.000Z,Iterative prompt engineering and refinement
+2024-07-20T00:00:00.000Z,Class anatomy: attributes and methods
+2024-09-08T00:00:00.000Z,Manipulating datasets (1)
+2024-09-03T00:00:00.000Z,Translating Portuguese
+2024-07-21T00:00:00.000Z,Catching exceptions
+2024-08-14T00:00:00.000Z,The Source of the Source
+2024-08-15T00:00:00.000Z,Selecting from a Selection (2)
+2024-09-05T00:00:00.000Z,Listing sheets in Excel files
+2024-05-11T00:00:00.000Z,Add a table and slicers
+2024-10-18T00:00:00.000Z,Exploring with dir and help (2)
+2024-07-21T00:00:00.000Z,Create and set properties (2)
+2024-09-01T00:00:00.000Z,Point and count plots
+2024-06-11T00:00:00.000Z,Writing an iterator to load data in chunks (3)
+2024-09-01T00:00:00.000Z,Bar plot using hue (2)
+2024-07-15T00:00:00.000Z,Unmasking a hotel booking AI system
+2024-09-01T00:00:00.000Z,One-hot encoding specific columns
+2024-07-28T00:00:00.000Z,When the background isn't that obvious (2)
+2024-10-15T00:00:00.000Z,Managing chat model memory
+2024-07-14T00:00:00.000Z,Split up a function (2)
+2024-11-02T00:00:00.000Z,Cloud computing services
+2024-09-25T00:00:00.000Z,Exploring prompt engineering
+2024-08-17T00:00:00.000Z,Capstone Crawler
+2024-07-21T00:00:00.000Z,String formatting review
+2024-09-02T00:00:00.000Z,Features and labels
+2024-09-23T00:00:00.000Z,Combinations of Pokémon
+2024-09-26T00:00:00.000Z,Ethics and environment
+2024-09-01T00:00:00.000Z,Ordering categories (1)
+2024-06-13T00:00:00.000Z,Built-in practice: enumerate()
+2024-09-01T00:00:00.000Z,Updating categorical plots (4)
+2024-09-05T00:00:00.000Z,Importing entire text files
+2024-10-03T00:00:00.000Z,Deployment
+2024-11-01T00:00:00.000Z,Logarithmic scales for line plots
+2024-07-20T00:00:00.000Z,Method inheritance (1)
+2024-09-08T00:00:00.000Z,Manipulating datasets (2)
+2024-08-13T00:00:00.000Z,A true step
+2024-05-11T00:00:00.000Z,Tables and scatter charts
+2024-10-18T00:00:00.000Z,Using your package's new functionality
+2024-06-11T00:00:00.000Z,List comprehensions vs. generators
+2024-04-27T00:00:00.000Z,Turning off interactions
+2024-11-02T00:00:00.000Z,Dual axes
+2024-08-13T00:00:00.000Z,Evaluating performance
+2024-09-26T00:00:00.000Z,Building from scratch
+2024-07-21T00:00:00.000Z,Properties
+2024-06-10T00:00:00.000Z,Bringing it all together (1)
+2024-09-10T00:00:00.000Z,Preparing a dataset (3)
+2024-08-14T00:00:00.000Z,HyperText Markup Language
+2024-09-25T00:00:00.000Z,One-shot chain-of-thought prompts
+2024-04-26T00:00:00.000Z,Add a card
+2024-09-01T00:00:00.000Z,Additional catplot() options
+2024-04-26T00:00:00.000Z,Areas and related disciplines of AI
+2024-09-25T00:00:00.000Z,Using conditional prompts
+2024-06-15T00:00:00.000Z,Pop quiz: steps for using %lprun
+2024-10-13T00:00:00.000Z,Getting started with ChromaDB
+2024-10-04T00:00:00.000Z,Extracting the response
+2024-07-21T00:00:00.000Z,Operator overloading: comparison
+2024-07-20T00:00:00.000Z,Inheritance of class attributes (1)
+2024-08-17T00:00:00.000Z,DataCamp Descriptions
+2024-07-28T00:00:00.000Z,Histograms
+2024-06-09T00:00:00.000Z,Bringing it all together (1)
+2024-10-12T00:00:00.000Z,API requests with urllib
+2024-08-13T00:00:00.000Z,Explore hyperparameter tuning
+2024-10-18T00:00:00.000Z,Column selection: .iloc[] vs by name (2)
+2024-09-25T00:00:00.000Z,Building specific and precise prompts
+2024-08-14T00:00:00.000Z,Web Scraping Overview
+2024-10-18T00:00:00.000Z,Writing docstrings
+2024-08-17T00:00:00.000Z,Start Requests
+2024-06-09T00:00:00.000Z,Bringing it all together (2)
+2024-10-18T00:00:00.000Z,Adding functionality to your package (1)
+2024-07-20T00:00:00.000Z,Using attributes in class definition (1)
+2024-09-15T00:00:00.000Z,Importing SAS files
+2024-10-03T00:00:00.000Z,Proprietary versus open-source models
+2024-10-18T00:00:00.000Z,Adding functionality to a child class (1)
+2024-10-04T00:00:00.000Z,Avoiding rate limits with retry
+2024-07-20T00:00:00.000Z,Add a class constructor
+2024-09-25T00:00:00.000Z,Generating a table
+2024-10-13T00:00:00.000Z,Adding user history to the recommendation engine
+2024-04-26T00:00:00.000Z,Getting started!
+2024-10-18T00:00:00.000Z,Measuring time II (2)
+2024-09-01T00:00:00.000Z,Ordering categories (4)
+2024-11-01T00:00:00.000Z,Interpreting correlation heatmaps
+2024-09-25T00:00:00.000Z,Adding guidelines for the learning advisor chatbot
+2024-04-26T00:00:00.000Z,Transforming columns
+2024-10-18T00:00:00.000Z,Naming packages
+2024-10-07T00:00:00.000Z,Visualizing the embedded descriptions (1)
+2024-08-28T00:00:00.000Z,Using flake8 to tidy up a file
+2024-06-09T00:00:00.000Z,Scope and user-defined functions
+2024-10-03T00:00:00.000Z,The right scaling strategy
+2024-10-13T00:00:00.000Z,Embedding more detailed descriptions
+2024-10-18T00:00:00.000Z,Adding functionality to your package (3)
+2024-06-11T00:00:00.000Z,Iterating over iterables (2)
+2024-07-15T00:00:00.000Z,Data sharing for AI progress
+2024-09-15T00:00:00.000Z,Extracting data from your HDF5 file
+2024-10-14T00:00:00.000Z,Querying the Netflix collection
+2024-10-04T00:00:00.000Z,Extracting structured data from text
+2024-09-02T00:00:00.000Z,Text moderation
+2024-09-01T00:00:00.000Z,Exploring a target variable (1)
+2024-10-18T00:00:00.000Z,Using inheritance to create a class
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: string issues (2)
+2024-10-03T00:00:00.000Z,Choosing the right architecture
+2024-08-21T00:00:00.000Z,Save a figure with different sizes (1)
+2024-09-02T00:00:00.000Z,Content generation
+2024-10-15T00:00:00.000Z,Building prompts for sequential chains
+2024-10-03T00:00:00.000Z,Data sourcing
+2024-09-25T00:00:00.000Z,Prompt engineering for chatbot development
+2024-09-08T00:00:00.000Z,Transformer components
+2024-09-01T00:00:00.000Z,Cleaning variables (4)
+2024-06-13T00:00:00.000Z,A taste of things to come
+2024-09-08T00:00:00.000Z,Comparing models with the pipeline (1)
+2024-09-25T00:00:00.000Z,OpenAI API message roles
+2024-08-21T00:00:00.000Z,Bar chart
+2024-11-01T00:00:00.000Z,Ordering box plots
+2024-10-04T00:00:00.000Z,Calling an external API
+2024-07-21T00:00:00.000Z,Designing for inheritance and polymorphism
+2024-08-28T00:00:00.000Z,Including licences and writing READMEs
+2024-10-18T00:00:00.000Z,Refactoring for readability
+2024-04-26T00:00:00.000Z,Cleaning data
+2024-06-10T00:00:00.000Z,Pop quiz on lambda functions
+2024-07-15T00:00:00.000Z,Team building!
+2024-10-12T00:00:00.000Z,Constructing a URL with parameters (2)
+2024-08-28T00:00:00.000Z,Running tox
+2024-09-01T00:00:00.000Z,Setting dtype when reading data (1)
+2024-07-28T00:00:00.000Z,Apply global thresholding
+2024-09-02T00:00:00.000Z,Categorizing companies
+2024-07-05T00:00:00.000Z,"Efficiently combining, counting, and iterating"
+2024-10-18T00:00:00.000Z,Locate rows: .iloc[] and .loc[]
+2024-06-10T00:00:00.000Z,The keyword nonlocal and nested functions
+2024-08-21T00:00:00.000Z,Annotating a plot of time-series data
+2024-10-05T00:00:00.000Z,Digging into the embeddings response
+2024-07-21T00:00:00.000Z,Read-only properties
+2024-09-03T00:00:00.000Z,Translating with prompts
+2024-06-11T00:00:00.000Z,Processing data in chunks (1)
+2024-10-18T00:00:00.000Z,Using doctest
+2024-09-25T00:00:00.000Z,Customer support ticket routing
+2024-09-02T00:00:00.000Z,Your first OpenAI API request!
+2024-09-25T00:00:00.000Z,Text analysis
+2024-09-02T00:00:00.000Z,Why use text moderation models?
+2024-09-02T00:00:00.000Z,Supervised machine learning
+2024-10-03T00:00:00.000Z,Relevancy of LLMOps
+2024-06-11T00:00:00.000Z,Using pandas' read_csv iterator for streaming data
+2024-10-13T00:00:00.000Z,Respecting API rate limits
+2024-10-13T00:00:00.000Z,Recommendation systems
+2024-07-15T00:00:00.000Z,Learning from customer reviews
+2024-09-10T00:00:00.000Z,Filtering out audio files
+2024-10-04T00:00:00.000Z,Handling the response with external API calls (1)
+2024-10-13T00:00:00.000Z,Working with structured data
+2024-11-04T00:00:00.000Z,Primary cloud services
+2024-11-02T00:00:00.000Z,Congratulations
+2024-06-11T00:00:00.000Z,Iterators vs. Iterables
+2024-08-20T00:00:00.000Z,Introduction to data visualization with Matplotlib
+2024-06-11T00:00:00.000Z,Using enumerate
+2024-08-28T00:00:00.000Z,Utilizing editable installs
+2024-08-21T00:00:00.000Z,Quantitative comparisons: bar-charts
+2024-08-20T00:00:00.000Z,Small multiples
+2024-09-02T00:00:00.000Z,Requesting moderation
+2024-09-01T00:00:00.000Z,Collapsing categories knowledge check
+2024-07-20T00:00:00.000Z,Understanding class definitions
+2024-09-10T00:00:00.000Z,Grammatical correctness
+2024-04-26T00:00:00.000Z,Introduction to Power BI
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: using NumPy arrays
+2024-07-20T00:00:00.000Z,Changing class attributes
+2024-09-10T00:00:00.000Z,Preparing a dataset (2)
+2024-06-09T00:00:00.000Z,Multiple parameters and return values
+2024-08-28T00:00:00.000Z,Uploading distributions
+2024-10-04T00:00:00.000Z,Mitigating prompt injection
+2024-08-25T00:00:00.000Z,Documentation
+2024-09-01T00:00:00.000Z,Accessing and filtering data (3)
+2024-09-10T00:00:00.000Z,Question answering and multi-modal tasks
+2024-06-15T00:00:00.000Z,Code profiling for memory usage
+2024-09-01T00:00:00.000Z,Setting categories
+2024-07-20T00:00:00.000Z,Customizing a DataFrame (2)
+2024-09-01T00:00:00.000Z,Removing categories (1)
+2024-10-15T00:00:00.000Z,RAG storage and retrieval using vector databases
+2024-09-02T00:00:00.000Z,Applications built on the OpenAI API
+2024-11-01T00:00:00.000Z,"Qualitative, sequential, diverging"
+2024-07-21T00:00:00.000Z,Managing data access: private attributes
+2024-08-28T00:00:00.000Z,Writing some basic tests
+2024-04-26T00:00:00.000Z,Power Query Editor
+2024-06-11T00:00:00.000Z,Writing an iterator to load data in chunks (1)
+2024-06-15T00:00:00.000Z,Bringing it all together: Festivus!
+2024-09-03T00:00:00.000Z,Speech-to-Text Transcription with Whisper
+2024-11-01T00:00:00.000Z,Adjusting bin width
+2024-08-21T00:00:00.000Z,Unique values of a column
+2024-08-13T00:00:00.000Z,It's a long way to the top
+2024-06-10T00:00:00.000Z,Bringing it all together
+2024-10-18T00:00:00.000Z,Measuring time I
+2024-08-17T00:00:00.000Z,Survey
+2024-08-28T00:00:00.000Z,Setting up tox
+2024-07-14T00:00:00.000Z,Retrieving docstrings (3)
+2024-08-14T00:00:00.000Z,The (X)Path to CSS Locators (1)
+2024-07-28T00:00:00.000Z,Getting started with thresholding
+2024-09-08T00:00:00.000Z,Comparing models with the pipeline (2)
+2024-09-26T00:00:00.000Z,End-to-end training
+2024-09-10T00:00:00.000Z,Building the trainer
+2024-08-17T00:00:00.000Z,Time to Run
+2024-07-20T00:00:00.000Z,Alternative constructors (1)
+2024-09-26T00:00:00.000Z,Attention mechanisms
+2024-09-05T00:00:00.000Z,The importance of flat files in data science
+2024-07-21T00:00:00.000Z,Square and rectangle (1)
+2024-09-02T00:00:00.000Z,Classifying time series data
+2024-07-20T00:00:00.000Z,Understanding inheritance
+2024-09-26T00:00:00.000Z,Introducing the transformer
+2024-10-15T00:00:00.000Z,Recursively splitting by character
+2024-10-05T00:00:00.000Z,Embeddings applications
+2024-10-03T00:00:00.000Z,Structuring an API call
+2024-10-18T00:00:00.000Z,Final Thoughts
+2024-08-15T00:00:00.000Z,"Get an ""a"" in this Course (2)"
+2024-09-01T00:00:00.000Z,Ordering categories
+2024-10-15T00:00:00.000Z,Sequential chains
+2024-09-10T00:00:00.000Z,Using semantic search
+2024-06-11T00:00:00.000Z,Introduction to iterators
+2024-09-05T00:00:00.000Z,Importing sheets from Excel files
+2024-10-03T00:00:00.000Z,Governance and security
+2024-06-15T00:00:00.000Z,Using %timeit: specifying number of runs and loops
+2024-07-21T00:00:00.000Z,String formatting review (1)
+2024-04-26T00:00:00.000Z,Loading existing reports
+2024-10-03T00:00:00.000Z,Congratulations
+2024-09-03T00:00:00.000Z,Congratulations!
+2024-09-10T00:00:00.000Z,Using min_length and max_length (1)
+2024-10-13T00:00:00.000Z,API Authentication
+2024-07-14T00:00:00.000Z,Extract a function
+2024-11-01T00:00:00.000Z,Higher dimensions
+2024-10-04T00:00:00.000Z,Using the tools parameter
+2024-10-13T00:00:00.000Z,Using request and response headers (3)
+2024-09-10T00:00:00.000Z,Generating text from a text prompt
+2024-09-01T00:00:00.000Z,One-hot knowledge check
+2024-05-11T00:00:00.000Z,Dashboard or report?
+2024-06-11T00:00:00.000Z,Welcome to the case study!
+2024-09-01T00:00:00.000Z,Creating a Boolean encoding
+2024-08-14T00:00:00.000Z,Secret Links
+2024-09-25T00:00:00.000Z,Explaining code step by step
+2024-07-15T00:00:00.000Z,Ways to foster an AI culture
+2024-09-25T00:00:00.000Z,Analyze solution correctness
+2024-08-15T00:00:00.000Z,The CSS Wildcard
+2024-09-01T00:00:00.000Z,Categorical pitfalls
+2024-10-12T00:00:00.000Z,Creating and deleting resources using an API (3)
+2024-09-10T00:00:00.000Z,Congratulations
+2024-09-01T00:00:00.000Z,Course introduction
+2024-07-26T00:00:00.000Z,Flipping out
+2024-07-21T00:00:00.000Z,Read-only properties (2)
+2024-07-15T00:00:00.000Z,Biased or unbiased behavior?
+2024-08-21T00:00:00.000Z,Saving a file several times (3)
+2024-10-15T00:00:00.000Z,ReAct agents
+2024-07-20T00:00:00.000Z,Using attributes in class definition
+2024-09-08T00:00:00.000Z,Working with datasets
+2024-04-08T00:00:00.000Z,The potential of Artificial Intelligence
+2024-09-01T00:00:00.000Z,Using .groupby() after reordering
+2024-09-02T00:00:00.000Z,Interpret a time series plot
+2024-07-20T00:00:00.000Z,Add a class constructor (1)
+2024-06-13T00:00:00.000Z,A taste of things to come (2)
+2024-10-07T00:00:00.000Z,Visualizing the embedded descriptions
+2024-04-27T00:00:00.000Z,Sorting data
+2024-07-21T00:00:00.000Z,Read-only properties (1)
+2024-08-28T00:00:00.000Z,Configuring flake8
+2024-10-03T00:00:00.000Z,The importance of testing
+2024-08-28T00:00:00.000Z,Installing your own package
+2024-09-15T00:00:00.000Z,What are the tables in the database?
+2024-10-13T00:00:00.000Z,Vector databases for embedding systems
+2024-09-02T00:00:00.000Z,Are you prepared?
+2024-09-03T00:00:00.000Z,Combining models
+2024-06-10T00:00:00.000Z,Bringing it all together (2)
+2024-07-20T00:00:00.000Z,Method inheritance (2)
+2024-09-15T00:00:00.000Z,Introduction to relational databases
+2024-10-18T00:00:00.000Z,Leveraging documentation
+2024-11-01T00:00:00.000Z,Line plots without dates on the x-axis
+2024-11-01T00:00:00.000Z,Scatter plots
+2024-09-25T00:00:00.000Z,Tone adjustment for email marketing
+2024-09-01T00:00:00.000Z,Renaming categories
+2024-10-03T00:00:00.000Z,The difference between agents and chains
+2024-04-26T00:00:00.000Z,Making maps with geographic data
+2024-09-10T00:00:00.000Z,Preparing a dataset (1)
+2024-08-14T00:00:00.000Z,XPathology
+2024-08-14T00:00:00.000Z,Keep it Classy
+2024-09-08T00:00:00.000Z,Use cases for Hugging Face
+2024-09-26T00:00:00.000Z,N-shot learning
+2024-09-02T00:00:00.000Z,When to use supervised learning
+2024-07-20T00:00:00.000Z,Instance and class data
+2024-08-17T00:00:00.000Z,Capstone Crawler (2)
+2024-08-14T00:00:00.000Z,It's Time to P
+2024-09-01T00:00:00.000Z,Creating a box plot
+2024-08-14T00:00:00.000Z,Multimodal applications
+2024-06-13T00:00:00.000Z,Bringing it all together: Festivus! (1)
+2024-08-20T00:00:00.000Z,Annotating time-series data
+2024-08-17T00:00:00.000Z,The Finale
+2024-10-18T00:00:00.000Z,Using inherited methods (1)
+2024-10-04T00:00:00.000Z,Minimizing model risks
+2024-09-08T00:00:00.000Z,Introduction to Hugging Face
+2024-09-10T00:00:00.000Z,Fine-tuning a model
+2024-08-14T00:00:00.000Z,Where am I?
+2024-06-10T00:00:00.000Z,Map() and lambda functions
+2024-08-14T00:00:00.000Z,The (X)Path to CSS Locators
+2024-06-10T00:00:00.000Z,Error handling by raising an error
+2024-08-14T00:00:00.000Z,Finding href
+2024-08-13T00:00:00.000Z,Steps for building a model
+2024-09-01T00:00:00.000Z,Bar plot using hue
+2024-08-13T00:00:00.000Z,Warm up
+2024-10-04T00:00:00.000Z,Parallel function calling
+2024-09-26T00:00:00.000Z,Fine-tuning
+2024-11-01T00:00:00.000Z,Interpreting parallel coordinates plots
+2024-09-26T00:00:00.000Z,Building blocks to train LLMs
+2024-09-10T00:00:00.000Z,Zero-shot classification
+2024-06-10T00:00:00.000Z,Bringing it all together (1)
+2024-10-12T00:00:00.000Z,Creating and deleting resources using an API (2)
+2024-04-26T00:00:00.000Z,Field aggregation
+2024-09-08T00:00:00.000Z,Using AutoClasses
+2024-09-25T00:00:00.000Z,Key principles of prompt engineering
+2024-09-10T00:00:00.000Z,Preparing a dataset
+2024-07-28T00:00:00.000Z,Trying other methods
+2024-10-18T00:00:00.000Z,Exploring with dir and help (3)
+2024-10-13T00:00:00.000Z,Classifying review sentiment
+2024-09-25T00:00:00.000Z,Iterative prompt engineering for standard prompts
+2024-06-10T00:00:00.000Z,Nested functions
+2024-08-20T00:00:00.000Z,Plotting two variables
+2024-09-01T00:00:00.000Z,Removing categories (2)
+2024-09-01T00:00:00.000Z,Using pandas functions effectively
+2024-08-13T00:00:00.000Z,Should I use deep learning?
+2024-06-11T00:00:00.000Z,Using conditionals in comprehensions (2)
+2024-10-03T00:00:00.000Z,Mitigation strategies
+2024-04-26T00:00:00.000Z,What AI can -and cannot- do?
+2024-10-03T00:00:00.000Z,The RAG workflow
+2024-09-02T00:00:00.000Z,Statistical significance
+2024-10-13T00:00:00.000Z,Finding the most similar product
+2024-09-01T00:00:00.000Z,Setting category variables
+2024-06-11T00:00:00.000Z,Conditional list comprehensions for time-stamped data
+2024-05-04T00:00:00.000Z,Calculated columns vs. measures
+2024-06-10T00:00:00.000Z,Python's built-in scope
+2024-09-01T00:00:00.000Z,Review catplot() types
+2024-06-11T00:00:00.000Z,Using zip
+2024-09-10T00:00:00.000Z,Using min_length and max_length (3)
+2024-10-04T00:00:00.000Z,Batching
+2024-11-01T00:00:00.000Z,Eye-catching colors
+2024-08-28T00:00:00.000Z,Appropriate style filtering
+2024-10-04T00:00:00.000Z,Batching messages
+2024-11-01T00:00:00.000Z,Interpreting histograms
+2024-08-20T00:00:00.000Z,Using the matplotlib.pyplot interface
+2024-08-13T00:00:00.000Z,Generating movie recommendations
+2024-04-26T00:00:00.000Z,Structured or unstructured?
+2024-11-01T00:00:00.000Z,A plot tells a thousand words
+2024-08-13T00:00:00.000Z,Bag of words
+2024-09-25T00:00:00.000Z,Text transformation
+2024-06-09T00:00:00.000Z,Functions with multiple parameters
+2024-09-25T00:00:00.000Z,Creating a dual-prompt get_response() function
+2024-10-04T00:00:00.000Z,Handling the response with external API calls (2)
+2024-07-15T00:00:00.000Z,"Social challenges: ethics, fairness and privacy"
+2024-09-01T00:00:00.000Z,One-hot encoding
+2024-10-18T00:00:00.000Z,Installing package requirements
+2024-10-13T00:00:00.000Z,Using request and response headers (1)
+2024-08-28T00:00:00.000Z,Writing a README
+2024-08-14T00:00:00.000Z,Real-world applications
+2024-08-13T00:00:00.000Z,What's true about machine learning?
+2024-07-15T00:00:00.000Z,Opening the Open Data doors
+2024-09-08T00:00:00.000Z,Getting started with pipelines
+2024-08-13T00:00:00.000Z,Improving performance
+2024-07-20T00:00:00.000Z,Changing class attributes (2)
+2024-10-15T00:00:00.000Z,What's an agent?
+2024-10-18T00:00:00.000Z,Column selection: .iloc[] vs by name (1)
+2024-09-01T00:00:00.000Z,Overcoming pitfalls: string issues (4)
+2024-09-01T00:00:00.000Z,Cleaning variables
+2024-07-26T00:00:00.000Z,NumPy for images
+2024-09-02T00:00:00.000Z,Cluster size selection
+2024-09-10T00:00:00.000Z,Comparing tokenizer output
+2024-08-28T00:00:00.000Z,Testing your package
+2024-09-25T00:00:00.000Z,Learning advisor chatbot
+2024-06-15T00:00:00.000Z,Using %timeit: formal name or literal syntax
+2024-07-21T00:00:00.000Z,Custom exceptions (1)
+2024-08-14T00:00:00.000Z,Keep it Classy (1)
+2024-06-09T00:00:00.000Z,Bringing it all together
+2024-09-08T00:00:00.000Z,What are Large Language Models?
+2024-10-18T00:00:00.000Z,Using your class's functionality
+2024-06-11T00:00:00.000Z,Writing a generator to load data in chunks (2)
+2024-09-10T00:00:00.000Z,Question Natural Language Inference
+2024-10-18T00:00:00.000Z,Creating setup.py
+2024-09-10T00:00:00.000Z,Generate embeddings for a sentence
+2024-09-10T00:00:00.000Z,Text generation
+2024-09-01T00:00:00.000Z,Bar plot using hue (1)
+2024-09-01T00:00:00.000Z,Reordering categories in a Series (4)
+2024-09-01T00:00:00.000Z,Exploring a target variable (4)
+2024-10-18T00:00:00.000Z,Using good function names
+2024-06-13T00:00:00.000Z,Welcome!
+2024-08-14T00:00:00.000Z,HTML tree wordy navigation
+2024-09-05T00:00:00.000Z,Importing different datatypes
+2024-06-11T00:00:00.000Z,Writing a generator to load data in chunks (3)
+2024-07-26T00:00:00.000Z,Make images come alive with scikit-image
+2024-09-01T00:00:00.000Z,Creating a Boolean encoding (2)
+2024-06-10T00:00:00.000Z,The keyword global
+2024-08-14T00:00:00.000Z,Definition of an LLM
+2024-09-01T00:00:00.000Z,Setting dtype when reading data (4)
+2024-06-10T00:00:00.000Z,Bringing it all together: testing your error handling skills
+2024-10-18T00:00:00.000Z,Measuring time II (1)
+2024-04-27T00:00:00.000Z,Congratulations!
+2024-09-01T00:00:00.000Z,Bar plot using hue (4)
+2024-07-15T00:00:00.000Z,Establishing an AI culture
+2024-10-15T00:00:00.000Z,Custom tools for agents
+2024-07-15T00:00:00.000Z,Training and classifying with penguins
+2024-08-20T00:00:00.000Z,Plot time-series data
+2024-08-14T00:00:00.000Z,Counting Elements in the Wild
+2024-09-10T00:00:00.000Z,Classifying audio files
+2024-08-28T00:00:00.000Z,Development dependencies
+2024-10-18T00:00:00.000Z,Adding functionality to classes
+2024-08-14T00:00:00.000Z,Keep it Classy (2)
+2024-11-01T00:00:00.000Z,Highlighting data
+2024-08-21T00:00:00.000Z,Switching between styles
+2024-09-10T00:00:00.000Z,Instantiating an ASR pipeline
+2024-08-15T00:00:00.000Z,Responding with Selectors
+2024-10-18T00:00:00.000Z,Leveraging documentation (2)
+2024-10-15T00:00:00.000Z,Hugging Face models in LangChain!
+2024-07-15T00:00:00.000Z,Interacting with the Environment
+2024-11-01T00:00:00.000Z,Another dimension for scatter plots
+2024-04-27T00:00:00.000Z,Making changes
+2024-08-13T00:00:00.000Z,We don't need no supervision
+2024-08-13T00:00:00.000Z,Image data
+2024-08-14T00:00:00.000Z,Check your Class
+2024-09-25T00:00:00.000Z,Iterative prompt engineering for few-shot prompts
+2024-09-01T00:00:00.000Z,Create a label encoding and map (4)
+2024-08-13T00:00:00.000Z,What is machine learning?
+2024-08-14T00:00:00.000Z,Body Appendages
+2024-08-17T00:00:00.000Z,Capstone Crawler (1)
+2024-10-15T00:00:00.000Z,Creating a memory buffer
+2024-09-25T00:00:00.000Z,Providing context through system prompt
+2024-10-15T00:00:00.000Z,Building a retrieval prompt template
+2024-10-13T00:00:00.000Z,Embeddings for classification tasks
+2024-07-14T00:00:00.000Z,Docstrings
+2024-04-26T00:00:00.000Z,Transforming data
+2024-07-21T00:00:00.000Z,Custom exceptions (2)
+2024-10-15T00:00:00.000Z,Prompt templates and chaining
+2024-10-04T00:00:00.000Z,Function calling steps
+2024-09-10T00:00:00.000Z,Generating text from a text prompt (3)
+2024-08-20T00:00:00.000Z,Read data with a time index
+2024-07-15T00:00:00.000Z,The True-False challenge of things AI can do
+2024-08-20T00:00:00.000Z,Adding data to an Axes object
+2024-06-10T00:00:00.000Z,Nested Functions II
+2024-10-18T00:00:00.000Z,Multilevel inheritance
+2024-11-02T00:00:00.000Z,The power of the cloud
+2024-08-14T00:00:00.000Z,The (X)Path to CSS Locators (2)
+2024-07-21T00:00:00.000Z,Custom exceptions (3)
+2024-10-07T00:00:00.000Z,Visualizing the embedded descriptions (2)
+2024-10-18T00:00:00.000Z,Creating a grandchild class
+2024-07-20T00:00:00.000Z,Customizing functionality via inheritance
+2024-10-18T00:00:00.000Z,Classes and the DRY principle
+2024-09-25T00:00:00.000Z,Customer support ticket analysis
+2024-10-18T00:00:00.000Z,Adding functionality to your package
+2024-06-11T00:00:00.000Z,Write your own generator expressions
+2024-10-18T00:00:00.000Z,Using pytest
+2024-09-26T00:00:00.000Z,Pre-trained or fine-tuned?
+2024-07-21T00:00:00.000Z,Checking class equality
+2024-07-15T00:00:00.000Z,"Robots, vision and natural language mix-up"
+2024-06-15T00:00:00.000Z,Examining runtime
+2024-08-21T00:00:00.000Z,Statistical plotting
+2024-09-08T00:00:00.000Z,Saving a model
+2024-08-21T00:00:00.000Z,Where to go next
+2024-09-19T00:00:00.000Z,Novelty of LLMs
+2024-11-01T00:00:00.000Z,Interpreting stacked bar plots
+2024-10-18T00:00:00.000Z,Conventions and PEP 8
+2024-09-15T00:00:00.000Z,Advanced querying: exploiting table relationships
+2024-04-27T00:00:00.000Z,Applying advanced filtering
+2024-09-01T00:00:00.000Z,Cleaning variables (5)
+2024-06-11T00:00:00.000Z,Using iterators to load large files into memory
+2024-07-28T00:00:00.000Z,When the background isn't that obvious (1)
+2024-09-15T00:00:00.000Z,Pop quiz: The relational model
+2024-09-01T00:00:00.000Z,Create a label encoding and map (1)
+2024-06-10T00:00:00.000Z,Bringing it all together (2)
+2024-09-10T00:00:00.000Z,Summarizing long text
+2024-07-15T00:00:00.000Z,Infrastructure dilemmas
+2024-10-18T00:00:00.000Z,Exploring with dir and help
+2024-08-28T00:00:00.000Z,Sibling imports
+2024-07-20T00:00:00.000Z,Class inheritance
+2024-07-21T00:00:00.000Z,String representation of objects
+2024-11-02T00:00:00.000Z,Bar plot axes
+2024-11-04T00:00:00.000Z,Outsourcing IT services
+2024-08-25T00:00:00.000Z,"Modules, packages and subpackages"

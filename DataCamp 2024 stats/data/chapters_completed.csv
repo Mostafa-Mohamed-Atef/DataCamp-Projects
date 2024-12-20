@@ -1,0 +1,85 @@
+completed_at,chapter_title
+2024-04-26T00:00:00.000Z,Transforming Data
+2024-11-01T00:00:00.000Z,Visualizing distributions
+2024-09-01T00:00:00.000Z,Introduction to Categorical Data
+2024-10-13T00:00:00.000Z,What are Embeddings?
+2024-09-02T00:00:00.000Z,Introduction to the OpenAI API
+2024-08-14T00:00:00.000Z,Introduction to Large Language Models (LLM)
+2024-08-13T00:00:00.000Z,Deep Learning
+2024-09-15T00:00:00.000Z,Importing data from other file types
+2024-09-15T00:00:00.000Z,Working with relational databases in Python
+2024-09-26T00:00:00.000Z,Building Blocks of LLMs
+2024-09-26T00:00:00.000Z,Training Methodology and Techniques
+2024-09-02T00:00:00.000Z,Data Collection and Storage
+2024-09-25T00:00:00.000Z,Prompt Engineering for Business Applications
+2024-09-10T00:00:00.000Z,Building Pipelines for Image and Audio
+2024-07-20T00:00:00.000Z,OOP Fundamentals
+2024-10-18T00:00:00.000Z,Software Engineering & Data Science
+2024-08-17T00:00:00.000Z,"CSS Locators, Chaining, and Responses"
+2024-10-04T00:00:00.000Z,Best Practices for Production Applications
+2024-09-02T00:00:00.000Z,Experimentation and Prediction
+2024-08-13T00:00:00.000Z,Machine Learning Models
+2024-07-21T00:00:00.000Z,Integrating with Standard Python
+2024-11-01T00:00:00.000Z,Visualizing two variables
+2024-08-17T00:00:00.000Z,Spiders
+2024-10-18T00:00:00.000Z,Writing a Python Module
+2024-11-04T00:00:00.000Z,Introduction to Cloud Computing
+2024-10-18T00:00:00.000Z,Maintainability
+2024-10-03T00:00:00.000Z,Introduction to LLMOps & Ideation Phase
+2024-06-15T00:00:00.000Z,Foundations for efficiencies
+2024-09-02T00:00:00.000Z,Introduction to Data Science
+2024-09-26T00:00:00.000Z,Concerns and Considerations
+2024-04-27T00:00:00.000Z,Filtering
+2024-07-21T00:00:00.000Z,Best Practices of Class Design
+2024-09-02T00:00:00.000Z,OpenAI's Text and Chat Capabilities
+2024-04-26T00:00:00.000Z,Getting Started with Power BI
+2024-10-13T00:00:00.000Z,Making API Requests with Python
+2024-08-21T00:00:00.000Z,Plotting time-series
+2024-08-28T00:00:00.000Z,Install Your Package from Anywhere
+2024-09-10T00:00:00.000Z,Fine-tuning and Embeddings
+2024-06-11T00:00:00.000Z,Bringing it all together!
+2024-10-04T00:00:00.000Z,Function Calling
+2024-08-13T00:00:00.000Z,What is Machine Learning?
+2024-08-28T00:00:00.000Z,From Loose Code to Local Package
+2024-08-21T00:00:00.000Z,Sharing visualizations with others
+2024-06-10T00:00:00.000Z,"Default arguments, variable-length arguments and scope"
+2024-06-11T00:00:00.000Z,List comprehensions and generators
+2024-09-01T00:00:00.000Z,Visualizing Categorical Data
+2024-10-18T00:00:00.000Z,Utilizing Classes
+2024-09-03T00:00:00.000Z,Going Beyond Text Completions
+2024-09-25T00:00:00.000Z,Introduction to Prompt Engineering Best Practices
+2024-07-15T00:00:00.000Z,Tasks AI can solve
+2024-08-28T00:00:00.000Z,Increasing Your Package Quality
+2024-10-13T00:00:00.000Z,More API request concepts
+2024-09-02T00:00:00.000Z,"Preparation, Exploration, and Visualization"
+2024-09-05T00:00:00.000Z,Introduction and flat files
+2024-04-26T00:00:00.000Z,What is Artificial Intelligence (AI)?
+2024-08-21T00:00:00.000Z,Quantitative comparisons and statistical visualizations
+2024-09-25T00:00:00.000Z,Advanced Prompt Engineering Strategies
+2024-11-01T00:00:00.000Z,The color and the shape
+2024-08-28T00:00:00.000Z,Rapid Package Development
+2024-10-03T00:00:00.000Z,Operational Phase
+2024-08-14T00:00:00.000Z,XPaths and Selectors
+2024-08-20T00:00:00.000Z,Introduction to Matplotlib
+2024-10-15T00:00:00.000Z,Retrieval Augmented Generation (RAG)
+2024-07-15T00:00:00.000Z,Harnessing AI in Organizations
+2024-04-27T00:00:00.000Z,Visualizing Data
+2024-10-04T00:00:00.000Z,Structuring End-to-End Applications
+2024-10-15T00:00:00.000Z,Chains and Agents
+2024-06-11T00:00:00.000Z,Using iterators in PythonLand
+2024-10-15T00:00:00.000Z,Introduction to LangChain & Chatbot Mechanics
+2024-06-09T00:00:00.000Z,Writing your own functions
+2024-11-02T00:00:00.000Z,99 problems but a plot ain't one of them
+2024-09-08T00:00:00.000Z,Getting Started with Hugging Face
+2024-11-05T00:00:00.000Z,Classification
+2024-10-03T00:00:00.000Z,Development Phase
+2024-07-15T00:00:00.000Z,The human side of AI
+2024-09-25T00:00:00.000Z,Prompt Engineering for Chatbot Development
+2024-06-10T00:00:00.000Z,Lambda functions and error-handling
+2024-08-14T00:00:00.000Z,Introduction to HTML
+2024-10-13T00:00:00.000Z,Embeddings for AI Applications
+2024-09-10T00:00:00.000Z,Building Pipelines with Hugging Face
+2024-09-01T00:00:00.000Z,Pitfalls and Encoding
+2024-09-01T00:00:00.000Z,Categorical pandas Series
+2024-10-14T00:00:00.000Z,Vector Databases
+2024-07-20T00:00:00.000Z,Inheritance and Polymorphism
